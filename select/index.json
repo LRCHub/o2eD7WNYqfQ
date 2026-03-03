@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "How Deep Is Your Love",
+  "base_artist": "Calvin Harris & Disciples",
+  "createdAt": "2026-03-03T13:40:33.739789Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How Deep Is Your Love",
+      "artist": "Ginuwine",
+      "has_synced": false,
+      "path": "select/01_How_Deep_Is_Your_Love_Ginuwine.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How Deep is Your Love",
+      "artist": "OG",
+      "has_synced": false,
+      "path": "select/02_How_Deep_is_Your_Love_OG.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "How Deep Is Your Love",
+      "artist": "Beth",
+      "has_synced": true,
+      "path": "select/03_How_Deep_Is_Your_Love_Beth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "How Deep Is Your Love",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/04_How_Deep_Is_Your_Love_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "How Deep Is Your Love",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/05_How_Deep_Is_Your_Love_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "How Deep Is Your Love",
+      "artist": "黎瑞恩",
+      "has_synced": true,
+      "path": "select/06_How_Deep_Is_Your_Love_黎瑞恩.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "How Deep Is Your Love",
+      "artist": "Take That",
+      "has_synced": true,
+      "path": "select/07_How_Deep_Is_Your_Love_Take_That.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "How Deep Is Your Love",
+      "artist": "Portrait",
+      "has_synced": true,
+      "path": "select/08_How_Deep_Is_Your_Love_Portrait.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "How Deep Is Your Love",
+      "artist": "Bee Gees",
+      "has_synced": true,
+      "path": "select/09_How_Deep_Is_Your_Love_Bee_Gees.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How Deep Is Your Love",
+      "artist": "B3",
+      "has_synced": true,
+      "path": "select/10_How_Deep_Is_Your_Love_B3.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "How Deep Is Your Love",
+      "artist": "周华健",
+      "has_synced": false,
+      "path": "select/11_How_Deep_Is_Your_Love_周华健.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "How Deep Is Your Love",
+      "artist": "ZHLMG",
+      "has_synced": true,
+      "path": "select/12_How_Deep_Is_Your_Love_ZHLMG.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "How Deep Is Your Love",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/13_How_Deep_Is_Your_Love_Verschiedene.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "How Deep Is Your Love",
+      "artist": "Calvin Harris & Disciples",
+      "has_synced": false,
+      "path": "select/pl_01_How_Deep_Is_Your_Love_Calvin_Harris_&_Disciples.txt"
+    }
+  ]
+}
